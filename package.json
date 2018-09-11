@@ -1,6 +1,6 @@
 {
-  "name": "content-solutions-cms-widget-starter-kit",
-  "description": "A starter kit for building content management widgets for Content Solutions API.",
+  "name": "content-solutions-cms-widget-addresses",
+  "description": "A widget content management for Content Solutions API.",
   "version": "1.0.0",
   "author": "Dobromir Penchev <dobstera@gmail.com>",
   "license": "MIT",
