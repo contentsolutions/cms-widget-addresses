@@ -1,5 +1,5 @@
 <template>
-    <div class="error-component-wrapper p-4">
+    <div class="error-component-wrapper p-2">
         <h1 class="display-4 mb-4">{{$tc('error')}}</h1>
         <div class="mb-4">
             <p class="lead">

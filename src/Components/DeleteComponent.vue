@@ -1,6 +1,6 @@
 <template>
     <div class="delete-component-wrapper">
-        <div class="p-4">
+        <div class="p-2">
             <h1 class="display-4">{{$t('deleteEntity')}}</h1>
             <div class="entity-wrapper" v-if="$store.state.options.permissions.delete">
                 <p class="lead">{{$t('deleteEntityConfirmation')}}</p>

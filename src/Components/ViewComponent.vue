@@ -1,5 +1,5 @@
 <template>
-    <div class="create-component-wrapper p-4">
+    <div class="create-component-wrapper p-2">
         <h1 class="display-4 mb-4">{{$tc('entity')}}</h1>
         <div class="entity-wrapper" v-if="$store.state.options.permissions.read">
             <div class="mb-4">

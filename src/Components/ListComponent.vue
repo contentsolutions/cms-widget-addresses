@@ -1,5 +1,5 @@
 <template>
-    <div class="list-component-wrapper p-4">
+    <div class="list-component-wrapper p-2">
         <h1 class="display-4 mb-4">{{$tc('entity', 2)}}</h1>
         <div class="entity-wrapper" v-if="$store.state.options.permissions.read">
             <div class="container-fluid">

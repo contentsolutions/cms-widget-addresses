@@ -15,7 +15,7 @@ export default {
         action: 'Action | Actions',
         error: 'Error | Errors',
         errorNotLoadedWidget: 'We could not load the widget. Please check your options and try again.',
-        errorNoEntities: 'Currently, there are no entities. You can start by creating the first from the button above.',
+        errorNoEntities: 'Currently, there are no addresses. You can start by creating the first from the button above.',
         errorBadRequest: 'Bad request!',
         errorNotAuthenticated: '"You are not authenticated!',
         errorForbidden: 'You are not allowed to do this!',
