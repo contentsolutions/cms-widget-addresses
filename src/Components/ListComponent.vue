@@ -119,7 +119,7 @@
                         delete self.paginationData.data;
                     })
                     .catch(function (error) {
-                        this.httpInstance().handleError(error.response);
+                        self.httpInstance().handleError(error.response);
                     });
             },
 
